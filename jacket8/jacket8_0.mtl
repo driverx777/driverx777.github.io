@@ -1,0 +1,39 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Material3831
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka copper tape_R209_G209_B209.png
+map_Kd copper tape_R209_G209_B209.png
+newmtl Material3815
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka technique1_R209_G209_B209.png
+map_Kd technique1_R209_G209_B209.png
+newmtl Material3837
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka TECHNIQUE_R209_G209_B209.png
+map_Kd TECHNIQUE_R209_G209_B209.png
+newmtl Material3821
+Ka 0.313726 0.313726 0.313726
+Kd 1.000000 1.000000 1.000000
+Ks 0.141176 0.141176 0.141176
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka technique9_R255_G255_B255.png
+map_Kd technique9_R255_G255_B255.png
+map_Bump /Users/Tetiana/Library/Application Support/CLO/CLO Enterprise OnlineAuth/375/1080/normal.jpg
+map_Ks /Users/Tetiana/Library/Application Support/CLO/CLO Enterprise OnlineAuth/375/1080/bump map.jpg
